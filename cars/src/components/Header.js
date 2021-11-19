@@ -24,8 +24,8 @@ const styles = {
     viewStyle: {
         backgroundColor: 'gainsboro',
         height: 70,
-        justifyContent: 'center',
-        alignItems: 'center',
+        justifyContent: 'center', //aşağı yukarı
+        alignItems: 'center', //sağ sol
         paddingTop: 25,
     }
 }
